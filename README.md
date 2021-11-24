@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubeyadarsh" alt="dubeyadarsh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_adarsh_dubey" target="blank"><img src="https://img.shields.io/twitter/follow/_adarsh_dubey?logo=twitter&style=for-the-badge" alt="_adarsh_dubey" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611672b7ca6a061d8ea0dbe4656f47005c86244bf0d&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on [WIP](https://github.com/dubeyadarsh/WIP)
 
 - 🌱 I’m currently learning **Machine Learning**
