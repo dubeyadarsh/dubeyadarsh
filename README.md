@@ -1,7 +1,4 @@
-[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/411de8c2-18d4-4647-b56b-571bc95a6b3d)]
-
-
-
+[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/0b7714d1-6e53-4bae-98e7-23642dbb3206)]
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
