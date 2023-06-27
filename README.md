@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/0b7714d1-6e53-4bae-98e7-23642dbb3206)]
+[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/0df4d6ee-2cf3-4c37-b6a2-c76355a8fd7d)]
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
