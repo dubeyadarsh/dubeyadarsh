@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/1c85927c-0257-4423-b687-22a138875b6f)]
+[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/411de8c2-18d4-4647-b56b-571bc95a6b3d)]
+
 
 
 
