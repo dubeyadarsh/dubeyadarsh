@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/71918974/142886375-912ad326-02c3-46ab-ac07-3b01340d71da.jpg)]
+[![MasterHead](https://github.com/dubeyadarsh/dubeyadarsh/assets/75479397/1c85927c-0257-4423-b687-22a138875b6f)]
 
 
 
