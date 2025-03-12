@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Full  Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyadarsh" /> </p>
 
@@ -12,9 +12,9 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611672b7ca6a061d8ea0dbe4656f47005c86244bf0d&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on [WIP](https://github.com/dubeyadarsh/WIP)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **Java/Spring Boot**
 
 - 📫 How to reach me **adarsh2dubey@gmail.com**
 
